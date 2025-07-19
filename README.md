@@ -87,6 +87,11 @@ El servidor se ejecutará en:
 
 ---
 
+## 🌐 URL del deploy
+**https://api-rest-firebase-bice.vercel.app/**
+
+---
+
 ## 🔐 Autenticación
 
 Debés autenticarte con:
